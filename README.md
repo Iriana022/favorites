@@ -1,4 +1,24 @@
-# React + Vite
+# Favorites Manager App
+
+This project is a Favorites Manager application that allows users to add, edit, delete, and organize favorite items efficiently. Key features include:
+
+CRUD operations – add new favorites, edit existing ones, and delete items.
+
+Grouping by category – dynamically group favorites for better organization.
+
+Modals for forms – add and edit items using reusable modal components.
+
+The application is built with:
+
+React + Vite – for a modern and fast frontend experience.
+
+React Bootstrap – for responsive and clean UI components.
+
+Redux Toolkit – for centralized state management and immutability.
+
+Minimal local state – used sparingly with useState for UI controls, such as modals.
+
+This project demonstrates practical skills in state management, component design, and UI/UX best practices using modern React tools.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
